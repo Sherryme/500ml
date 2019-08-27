@@ -1,0 +1,21 @@
+canvas {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #FFD900;
+}
+
+#holy{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#holy img{
+    width: 180px;
+    box-shadow: 0 1px 3px #B08400;
+}
